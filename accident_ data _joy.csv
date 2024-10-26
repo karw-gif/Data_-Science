@@ -1,0 +1,20 @@
+Age,Sex,Education,Vehicle,Driving_experience,Lanes,Junction,Road,Time,Weather_conditions,Collision_type,Vehicle_movement,Pedestrian_movement,Cause_of_accident,Accident_severity
+18-30,Male,Above high school,Employee,1-2yr,Unknown,No junction,Asphalt roads,Daylight,Normal,Collision with roadside-parked vehicles,Going straight,Not a Pedestrian,Moving Backward,2
+31-50,Male,Junior high school,Employee,Above 10yr,Undivided Two way,No junction,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Overtaking,2
+18-30,Male,Junior high school,Employee,1-2yr,other,No junction,Asphalt roads,Daylight,Normal,Collision with roadside objects,Going straight,Not a Pedestrian,Changing lane to the left,1
+18-30,Male,Junior high school,Employee,5-10yr,other,Y Shape,Earth roads,Darkness - lights lit,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Changing lane to the right,2
+18-30,Male,Junior high school,Employee,2-5yr,other,Y Shape,Asphalt roads,Darkness - lights lit,Normal,Vehicle with vehicle collision,Going straight,Not a Pedestrian,Overtaking,2
+31-50,Male,Unknown,Unknown,Unknown,Unknown,Y Shape,Unknown,Daylight,Normal,Vehicle with vehicle collision,U-Turn,Not a Pedestrian,Overloading,2
+18-30,Male,Junior high school,Employee,2-5yr,Undivided Two way,Crossing,Unknown,Daylight,Normal,Vehicle with vehicle collision,Moving Backward,Not a Pedestrian,Other,2
+18-30,Male,Junior high school,Employee,2-5yr,other,Y Shape,Asphalt roads,Daylight,Normal,Vehicle with vehicle collision,U-Turn,Not a Pedestrian,No priority to vehicle,2
+18-30,Male,Junior high school,Employee,Above 10yr,other,Y Shape,Earth roads,Daylight,Normal,Collision with roadside-parked vehicles,Going straight,Crossing from driver's nearside,Changing lane to the right,2
+18-30,Male,Junior high school,Employee,1-2yr,Undivided Two way,Y Shape,Asphalt roads,Daylight,Normal,Collision with roadside-parked vehicles,U-Turn,Not a Pedestrian,Moving Backward,1
+18-30,Male,Above high school,Owner,1-2yr,other,No junction,Asphalt roads,Daylight,Normal,Collision with animals,Turnover,Not a Pedestrian,Changing lane to the left,1
+31-50,Male,Above high school,Employee,No Licence,Undivided Two way,No junction,Earth roads,Daylight,Normal,Collision with animals,Going straight,Not a Pedestrian,No priority to pedestrian,1
+18-30,Male,Junior high school,Employee,1-2yr,Double carriageway (median),No junction,Asphalt roads,Daylight,Normal,Collision with animals,Going straight,Not a Pedestrian,No distancing,2
+31-50,Male,Junior high school,Employee,5-10yr,other,No junction,Asphalt roads,Daylight,Normal,Collision with animals,Waiting to go,Not a Pedestrian,No priority to vehicle,2
+31-50,Male,Junior high school,Employee,Above 10yr,Undivided Two way,No junction,Asphalt roads,Daylight,Normal,Collision with animals,Going straight,Not a Pedestrian,No distancing,1
+18-30,Female,Junior high school,Employee,Above 10yr,One way,Y Shape,Asphalt roads,Darkness - lights lit,Raining,Collision with animals,Going straight,Not a Pedestrian,No distancing,1
+18-30,Male,Elementary school,Owner,5-10yr,Undivided Two way,Y Shape,Asphalt roads,Darkness - lights lit,Raining,Collision with animals,Going straight,Not a Pedestrian,Moving Backward,2
+18-30,Male,Junior high school,Employee,2-5yr,other,Y Shape,Asphalt roads,Darkness - lights lit,Raining,Collision with animals,Going straight,Not a Pedestrian,Changing lane to the right,1
+18-30,Male,Junior high school,Employee,2-5yr,other,Y Shape,Asphalt roads,Darkness - lights lit,Raining,Collision with animals,Moving Backward,Not a Pedestrian,No priority to pedestrian,2
